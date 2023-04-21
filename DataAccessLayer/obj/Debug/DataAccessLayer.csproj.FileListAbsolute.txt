@@ -1,0 +1,174 @@
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\PresentationLayer.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\PresentationLayer.pdb
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\EnvDTE.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\stdole.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\Microsoft.MSXML.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Đồ án1\FoodManagerApp\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\PresentationLayer.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\EnvDTE.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\stdole.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\PresentationLayer.pdb
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\xCode\project-winform-manage-food\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\xCode\project-winform-manage-food\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\xCode\project-winform-manage-food\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\xCode\project-winform-manage-food\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

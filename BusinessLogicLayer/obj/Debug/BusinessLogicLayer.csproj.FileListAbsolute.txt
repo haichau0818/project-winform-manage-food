@@ -1,0 +1,32 @@
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\PresentationLayer.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\PresentationLayer.pdb
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Đồ án1\FoodManagerApp\BusinessLogicLayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\PresentationLayer.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\bin\Debug\PresentationLayer.pdb
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\xCode\project-winform-manage-food\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

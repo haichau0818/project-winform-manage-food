@@ -1,0 +1,250 @@
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fFoodManager.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fLogin.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.Properties.Resources.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.exe
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.exe.config
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.exe
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\FoodManagerApp.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\BusinessLogicLayer.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\PresentationLayer.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\DataAccessLayer.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\BusinessLogicLayer.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\PresentationLayer.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\DataAccessLayer.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.csproj.CopyComplete
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fEstablish.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fSell.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\CircularProgressBar.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\WinFormAnimation.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\CircularProgressBar.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fWelcome.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fCustomer.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fProduct.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fStaff.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fStatistical.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fAllProduct.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fDrink.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fFood.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.ListItem.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fSale.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fBestSeller.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\DataAccessLayer.dll.config
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\RdlCompile.cache
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\RdlCompile.compiled
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.Design.DLL
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\EnvDTE.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\EnvDTE80.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\stdole.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\VSLangProj.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\VSLangProj80.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.MSXML.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\VSLangProj2.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\FoodManagerApp.exe.config
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.ReportB.resources
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Newtonsoft.Json.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\System.Net.Http.Formatting.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.TeamFoundation.Common.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\Newtonsoft.Json.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\System.Net.Http.Formatting.xml
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+G:\Đồ án1\FoodManagerApp\FoodManagerApp\obj\Debug\PresentationLayer.fTypePro.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\FoodManagerApp.exe.config
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\FoodManagerApp.exe
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\FoodManagerApp.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\BusinessLogicLayer.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\CircularProgressBar.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Newtonsoft.Json.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\PresentationLayer.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\System.Net.Http.Formatting.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\WinFormAnimation.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\DataAccessLayer.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\EnvDTE.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\EnvDTE80.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\stdole.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\BusinessLogicLayer.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\PresentationLayer.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\CircularProgressBar.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.TeamFoundation.Common.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\Newtonsoft.Json.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\System.Net.Http.Formatting.xml
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\DataAccessLayer.pdb
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\DataAccessLayer.dll.config
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fCustomer.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fProduct.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fStaff.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fStatistical.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fTypePro.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fAllProduct.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fDrink.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fFood.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fSale.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fBestSeller.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fFoodManager.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fLogin.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fEstablish.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fSell.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.fWelcome.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.ListItem.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\FoodManagerApp.Properties.Resources.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.ReportB.resources
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\FoodManagerApp.exe
+E:\xCode\project-winform-manage-food\FoodManagerApp\obj\Debug\FoodManagerApp.pdb
